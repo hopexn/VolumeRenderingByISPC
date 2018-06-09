@@ -5,4 +5,5 @@ ispc/*.h
 *.png
 *.jpg
 cmake-build-debug
+.DS_Store
 
