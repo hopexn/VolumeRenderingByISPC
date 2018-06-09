@@ -1,0 +1,8 @@
+.idea
+build
+ispc/*.o
+ispc/*.h
+*.png
+*.jpg
+cmake-build-debug
+
